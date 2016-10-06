@@ -31,3 +31,24 @@ nav li {
 	vertical-align: middle;
 	font-size: 1.2em;
 }
+
+
+.input-search {
+	padding: 5px;
+	width: 95%;
+	color: gray;
+}
+
+.form-search {
+	display: inline-block;
+	width: 40%;
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+.glass {
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	vertical-align: bottom;
+}
